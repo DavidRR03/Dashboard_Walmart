@@ -37,7 +37,7 @@ Este dashboard permite analizar las tiendas de forma individual e incluye varios
 
 El dashboard también permite observar las siguientes métricas:
 
-1. 🔍 **Ventas totales por tienda** 🏬.
+1. 🔍 **Ventas totales por tienda** 🏬 y promedio de ventas del periodo, lo que permite comprobar si una tienda está por encima o por debajo del promedio.
 2. 🌡️ **Promedio de temperatura** en cada región.
 3. ⛽ **Promedio del precio del combustible**.
 4. 📈 **Promedio del IPC**.
